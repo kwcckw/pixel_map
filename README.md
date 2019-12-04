@@ -14,6 +14,8 @@ Map colour from the input image to different template image with different angle
 
 6. The code is built in Python 3.6.8 and it is advisable to use this similar version to run the code
 
+7. The code only work in the current provided input image 'img_input_ori.png'.
+
 Input image (no colouring)
 
 ![Input image](https://github.com/kwcckw/pixel_map/blob/master/img_input_ori.png)
